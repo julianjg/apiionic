@@ -1,1 +1,1 @@
-web: gunicorn apiinonic.wsgi --log-file -
+web: gunicorn apiionic.wsgi --log-file -
